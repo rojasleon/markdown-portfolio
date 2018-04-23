@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Eat
+* Program things
+  * Run
+  * Go to the School
